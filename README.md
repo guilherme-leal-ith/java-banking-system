@@ -180,9 +180,9 @@ GET /api/transacoes/extrato/00000001
 
 ## 🔮 Próximos Passos (Refatorações Sugeridas)
 
-- [ ] Substituir H2 por PostgreSQL/MySQL
+- [ ] Substituir H2 por PostgreSQL
 - [ ] Adicionar Spring Security com autenticação JWT
-- [ ] Criar testes unitários (JUnit 5 + Mockito)
+- [ ] Criar testes unitários (JUnit 5)
 - [ ] Adicionar paginação no extrato
 - [ ] Implementar tipo `PAGAMENTO` com validação de boleto
 - [ ] Adicionar Swagger/OpenAPI para documentação interativa
